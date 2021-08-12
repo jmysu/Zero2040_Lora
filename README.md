@@ -1,7 +1,7 @@
 # Zero2040_Lora [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)<br>
 
 A Rpi-Zero formfactor board w/ Pico/RP2040, Lora/RF modules! (Working in progress)<br>
-Added with some features:<br>
+Added with some features:
  - RPi HAT header.
  - RPi-Pico slot.
  - Neopixel RGB LEDs.
