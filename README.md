@@ -7,7 +7,7 @@ With some features:
  - RF/Lora module board
 
  <br>
- <img src="pic/Z2040TopV09.png " width=400> <img src="pic/Z2040BottomV09.png " width=400>
+ <img src="pic/Z2040TopV09.png " width=400><img src="pic/Z2040BottomV09.png " width=400>
 
 
 <br>
