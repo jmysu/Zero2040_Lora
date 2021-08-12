@@ -5,7 +5,9 @@ With some features:
  - Neopixel RGB LEDs.
  - Shared I2C, SPI, UART, A/D & SD card between Pi and Pico/RP2040
  - RF/Lora module board
-   <img src="pic/Z2040TopV09.png " width=400> <img src="pic/Z2040BottomV09.png " width=400>
+
+ <br>
+ <img src="pic/Z2040TopV09.png " width=400> <img src="pic/Z2040BottomV09.png " width=400>
 
 
 <br>
