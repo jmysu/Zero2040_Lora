@@ -6,7 +6,7 @@ With some features:
  - Shared I2C, SPI, UART, A/D & SD card between Pi and Pico/RP2040
  - RF/Lora module board
 
- <br><img src="pic/Z2040TopV09.png " width=320> <img src="pic/Z2040BottomV09.png " width=320> <br>
+ <br><img src="pic/Z2040TopV09.png " width=360> <img src="pic/Z2040BottomV09.png " width=360> <br>
 
 
 <br>
