@@ -17,6 +17,6 @@ Added with some features:
 ## References <br>
   -[RPi_Pico](https://www.raspberrypi.org/documentation/pico/getting-started/) Pico Getting Started!<br>
   -[Eagle2Fritzing](https://github.com/squix78/eagle2fritzing-parent) A nice tool converts Eagle .brd to Fritzing part.<br> 
-  -[Semtech Lora An1200 (LoRa™ Modulation Basics)](https://github.com/jmysu/Zero2040_Lora/blob/main/an1200.22.pdf)<br>
-  -[The AMAZING trick that LoRa... (Youtube)](https://www.youtube.com/watch?v=jHWepP1ZWTk)
+  -[Semtech Lora An1200 (LoRa™ Modulation Basics PDF)](https://github.com/jmysu/Zero2040_Lora/blob/main/an1200.22.pdf)<br>
+  -[The AMAZING trick that LoRa use (Youtube Video)](https://www.youtube.com/watch?v=jHWepP1ZWTk)
 
