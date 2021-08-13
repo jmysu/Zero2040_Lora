@@ -21,4 +21,4 @@ Added with some features:
   -[Eagle2Fritzing](https://github.com/squix78/eagle2fritzing-parent) A nice tool converts Eagle .brd to Fritzing part.<br> 
   -[Semtech Lora An1200 (LoRa™ Modulation Basics PDF)](https://github.com/jmysu/Zero2040_Lora/blob/main/an1200.22.pdf)<br>
   -[The AMAZING trick that LoRa use (Youtube Video)](https://www.youtube.com/watch?v=jHWepP1ZWTk)<br>
-  -[AED online tool 在線加密解密工具](https://www.010tools.com/AES) <br>
+  -[AES online tool 在線加密解密工具](https://www.010tools.com/AES) <br>
