@@ -13,7 +13,8 @@ Added with some features:
 
 
 ##LORA chips differences:<br>
-<img src="pic/SX127x.png" width=360> <img src="pic/RFM95x.png" width=360>
+Semtech / HopeRF <br>
+<img src="pic/SX127x.png" width=360> <img src="pic/RFM9x.png" width=360>
 
 <br>
 <br>
