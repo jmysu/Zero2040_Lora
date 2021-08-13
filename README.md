@@ -12,6 +12,9 @@ Added with some features:
  <br><img src="pic/Z2040TopV09.png " width=360> <img src="pic/Z2040BottomV09.png " width=360> <br>
 
 
+##LORA chips differences:<br>
+<img src="pic/SX127x.png" width=360> <img src="pic/RFM95x.png" width=360>
+
 <br>
 <br>
 <br>
