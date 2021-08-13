@@ -7,7 +7,7 @@ Added with some features:
  - Neopixel RGB LEDs.
  - Shared I2C, SPI, UART, A/D & SD card between RPi-Pi and RPi-Pico/RP2040.
  - SPI0/1 100mil connectors.
- - Additional RF/Lora module board (nRF24L compatibal).
+ - Additional RF/Lora module board (nRF24L connector compatibal RA-01/02, RFM9x).
 
  <br><img src="pic/Z2040TopV09.png " width=360> <img src="pic/Z2040BottomV09.png " width=360> <br>
 
